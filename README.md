@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lruilobar01
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning programing
